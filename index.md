@@ -6,3 +6,6 @@
 $ man awk
 This command shows the manual of awk.
 ```
+- [ ] Turn on GitHub Pages.
+- [ ] Outline my portfolio.
+- [ ] Introduce myself to the world.
